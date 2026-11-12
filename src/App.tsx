@@ -19,7 +19,7 @@ const DEFAULT_PARAMS: SimulationParams = {
   deltaDeg: 0,
   dampingEnabled: false,
   b: 0.5,
-  speed: 1,
+  speed: 0.25,
   timeWindowPeriods: 1,
 };
 
