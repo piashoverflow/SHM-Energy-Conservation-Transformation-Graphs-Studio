@@ -1,0 +1,6 @@
+{
+  "name": "SHM Energy Conservation, Transformation & Graphs Studio",
+  "description": "Interactive physics simulation studio exploring Simple Harmonic Motion energy conservation, live liquid energy tanks, E-x parabolic curves, and E-t double-frequency & damped oscillations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
